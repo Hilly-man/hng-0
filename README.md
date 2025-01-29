@@ -1,9 +1,9 @@
-# HNG12 Public API
+HNG12 Public API
 
-## 📌 Project Overview
-This is a simple public API built with **FastAPI** that returns JSON data containing:
+📌 Project Overview
+This is a simple public API built with FastAPI that returns JSON data containing:
 - Your registered email address (used for HNG12 Slack workspace)
-- The current date and time in **ISO 8601** format (UTC)
+- The current date and time in **ISO 8601* format (UTC)
 - The GitHub repository URL of this project
 
 The API is publicly accessible and handles **CORS** properly to allow cross-origin requests.
